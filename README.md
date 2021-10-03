@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FCCADC&height=400&section=header&text=JungJiHyoun&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FCCADC&height=200&section=header&text=JungJiHyoun&fontSize=70)
 
 <div align="center">
 
