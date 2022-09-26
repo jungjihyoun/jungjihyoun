@@ -1,4 +1,4 @@
-👋 Hi there. I'm a Front-End Software Engineer by passion and living in Seoul, Korea.
+👋 Hi there. I'm a Front-End Software Engineer living in Seoul, Korea.
 
 👀 I specialize in React. Sometimes I develop cross-platforms like ReactNative.
 
