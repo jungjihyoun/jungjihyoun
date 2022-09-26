@@ -1,13 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FDE8F0&height=200&section=header&text=JungJiHyoun&fontSize=70)
+👋 Hi there. I'm a Front-End Software Engineer by passion and living in Seoul, Korea.
 
-<div align="center">
+👀 I specialize in React. Sometimes I develop cross-platforms like ReactNative.
+
+🌱 I’m currently learning about UIUX Design.
+
+📫 <span> 
+<span>How to reach me :</span>
+<a href="mailto:jihyoun0602@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jihyoun0602@gmail.com"/></a>
+</span>
 
 
-### Stack 
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)     
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)      
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)      
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+#### Skills 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typeScript&logoColor=black">  
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/react%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">  
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/postcss-1572B6?style=for-the-badge&logo=postcss&logoColor=white">  
+<img src="https://img.shields.io/badge/ant%20 Design-7952B3?style=for-the-badge&logo=antDesign&logoColor=white"> <img src="https://img.shields.io/badge/storyBook-FF4785?style=for-the-badge&logo=storyBook&logoColor=white">  
+<img src="https://img.shields.io/badge/jest-000?style=for-the-badge&logo=jest&logoColor=white">
