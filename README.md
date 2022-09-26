@@ -2,8 +2,8 @@
 
 👀 I specialize in React. Sometimes I develop cross-platforms like React Native.
 
-🌱 I’m currently learning about UIUX Design.
-
+🌱 I’m currently learning about UIUX Design and studying JavaScript, Solidity.
+ 
 📫 How to reach me jihyoun0602@gmail.com
 
 #### Skills 
